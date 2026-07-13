@@ -3,7 +3,7 @@
 
 ## 📑 Sports Analytics 
 
-### 🚀 Foundational Projects (Fase 1)
+### 🚀 Foundational Projects (Phase 1)
 *   **[statsbomb-pioneer-analytics](https://github.com/CrisM71/statsbomb-pioneer-analytics)**
     *   *Tech:* Python, StatsBomb API, Expected Threat (xT) Grid Mapping.
     *   *Description:* My pioneer project analyzing positional possession versus low-block efficiency using Karun Singh's xT model.
