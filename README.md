@@ -1,5 +1,5 @@
 # Hi, I'm Cristiano Santos 👋
-*M.Sc. Student in Artificial Intelligence | Sports Data Scientist*
+*M.Sc. Student in Artificial Intelligence | Sports Data Enthusiastic*
 
 ## 📑 Sports Analytics 
 
